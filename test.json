@@ -1,0 +1,14 @@
+[
+  {
+    "scenario": "Fast-Track",
+    "text": "Policy POL123, Name: Bob. Incident: Minor scratch on door. Damage: $500. Type: auto."
+  },
+  {
+    "scenario": "Fraud Flag",
+    "text": "Policy POL456, Name: Charlie. Incident: The accident seemed staged and inconsistent with road marks. Damage: $10,000. Type: auto."
+  },
+  {
+    "scenario": "Injury Specialist",
+    "text": "Policy POL789, Name: Dana. Incident: Major collision. Passenger has a broken arm. Damage: $30,000. Type: injury."
+  }
+]
